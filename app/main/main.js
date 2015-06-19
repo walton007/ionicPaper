@@ -34,19 +34,21 @@ angular.module('main', [
       StatusBar.styleDefault();
     }
 
-    var iosConfig = {
-      'badge': true,
-      'sound': true,
-      'alert': true,
-    };
-    $cordovaPush.register(iosConfig).then(function (result) {
-      // Success -- send deviceToken to server, and store for future use
-      console.log('deviceToken: ' + result);
-      $rootScope.deviceToken = result;
-      //$http.post('http://server.co/', {user: 'Bob', tokenID: result.deviceToken})
-    }, function (err) {
-      alert('Registration error: ' + err);
-    });
+    if ($ionicPlatform.is('ios')) {
+      var iosConfig = {
+        'badge': true,
+        'sound': true,
+        'alert': true,
+      };
+      $cordovaPush.register(iosConfig).then(function (result) {
+        // Success -- send deviceToken to server, and store for future use
+        console.log('deviceToken: ' + result);
+        $rootScope.deviceToken = result;
+        //$http.post('http://server.co/', {user: 'Bob', tokenID: result.deviceToken})
+      }, function (err) {
+        alert('Registration error: ' + err);
+      });
+    }
   });
 
   $rootScope.$on('$cordovaPush:notificationReceived', function (event, notification) {

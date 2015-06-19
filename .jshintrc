@@ -14,12 +14,18 @@
   "regexp": true,
   "undef": true,
   "unused": true,
-  "strict": true,
+  "strict": false,
   "trailing": true,
   "smarttabs": true,
   "expr": true,
 
   "globals": {
-    "angular": false
+    "angular": false,
+    "window": false,
+    "cordova": false,
+    "StatusBar": false,
+    "alert": false,
+    "navigator": false,
+    "Media": false
   }
 }

@@ -8,7 +8,8 @@ var paths = gulp.paths;
 var $ = require('gulp-load-plugins')();
 
 // all linting tasks
-gulp.task('linting', ['jshint', 'jscs', 'jsonlint']);
+// gulp.task('linting', ['jshint', 'jscs', 'jsonlint']);
+gulp.task('linting', ['jshint', 'jsonlint']);
 gulp.task('linting-throw', ['jshint-throw', 'jscs-throw', 'jsonlint-throw']);
 
 // check for jshint errors

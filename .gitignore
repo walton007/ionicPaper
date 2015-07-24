@@ -11,8 +11,13 @@
 /app/main/assets/fonts/ionicons.*
 
 # cordova
-/platforms/
-/plugins/
+# /platforms/
+# /plugins/*
+/platforms/android/Archive.zip
+
+!/plugins/android.json
+!/plugins/ios.json
+!/plugins/fetch.json
 
 # build folder
 /www/**

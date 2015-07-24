@@ -1,0 +1,62 @@
+2015-06-11 12:35:09.024 paper[91405:1309404] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Data/Application/E56E84B7-4149-453B-87A3-AF93742778E6/Library/Cookies/Cookies.binarycookies
+2015-06-11 12:35:09.316 paper[91405:1309404] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-11 12:35:09.316 paper[91405:1309404] Multi-tasking -> Device: YES, App: YES
+2015-06-11 12:35:09.334 paper[91405:1309404] Unlimited access to network resources
+2015-06-11 12:35:09.345 paper[91405:1309404] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-11 12:35:10.825 paper[91405:1309404] Resetting plugins due to page load.
+2015-06-11 12:35:11.431 paper[91405:1309404] Finished load of: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Bundle/Application/247AE5F2-AAE3-4908-A172-E73C72292093/paper.app/www/index.html#/main
+2015-06-12 18:59:44.574 paper[22556:5091705] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Data/Application/78CC723B-CDB6-4063-BFED-B6AF242CEA2B/Library/Cookies/Cookies.binarycookies
+2015-06-12 18:59:44.901 paper[22556:5091705] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-12 18:59:44.902 paper[22556:5091705] Multi-tasking -> Device: YES, App: YES
+2015-06-12 18:59:44.919 paper[22556:5091705] Unlimited access to network resources
+2015-06-12 18:59:44.928 paper[22556:5091705] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-12 18:59:45.650 paper[22556:5091705] Resetting plugins due to page load.
+2015-06-12 18:59:46.057 paper[22556:5091705] Finished load of: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Bundle/Application/65C05059-9F22-4F03-B599-4120A92C9F7D/paper.app/www/index.html#/main
+2015-06-19 12:22:46.584 paper[28290:11788962] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Data/Application/7183A45F-FF7B-4DA2-B2A1-EE3CE4F9999D/Library/Cookies/Cookies.binarycookies
+2015-06-19 12:22:47.011 paper[28290:11788962] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 12:22:47.011 paper[28290:11788962] Multi-tasking -> Device: YES, App: YES
+2015-06-19 12:22:47.043 paper[28290:11788962] Unlimited access to network resources
+2015-06-19 12:22:47.056 paper[28290:11788962] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-19 12:22:47.572 paper[28290:11788962] active
+2015-06-19 12:22:47.576 paper[28290:11788962] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2015-06-19 12:22:47.929 paper[28290:11788962] Resetting plugins due to page load.
+2015-06-19 12:22:48.644 paper[28290:11788962] Finished load of: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Bundle/Application/A990D156-F6D9-494D-A70B-C1BE9CC226FE/paper.app/www/index.html#/main
+2015-06-19 13:47:57.708 paper[29568:11870542] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Data/Application/42478155-BCAE-4BE6-B3A8-674380304BC6/Library/Cookies/Cookies.binarycookies
+2015-06-19 13:47:57.854 paper[29568:11870542] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 13:47:57.854 paper[29568:11870542] Multi-tasking -> Device: YES, App: YES
+2015-06-19 13:47:57.857 paper[29568:11870542] Unlimited access to network resources
+2015-06-19 13:47:57.860 paper[29568:11870542] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-19 13:47:58.247 paper[29568:11870542] active
+2015-06-19 13:47:58.250 paper[29568:11870542] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2015-06-19 13:47:58.606 paper[29568:11870542] Resetting plugins due to page load.
+2015-06-19 13:47:58.965 paper[29568:11870542] Finished load of: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Bundle/Application/D2AA9DE1-48AA-4D37-9A0A-CF0442D05BBC/paper.app/www/index.html#/main
+2015-06-19 14:23:46.073 paper[29568:11870542] Resetting plugins due to page load.
+2015-06-19 14:23:46.482 paper[29568:11870542] Finished load of: file:///Users/i071628/Library/Developer/CoreSimulator/Devices/96BDE6E5-12F4-4015-8382-1D401545AD55/data/Containers/Bundle/Application/D2AA9DE1-48AA-4D37-9A0A-CF0442D05BBC/paper.app/www/index.html#/main

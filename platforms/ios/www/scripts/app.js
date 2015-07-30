@@ -27,6 +27,10 @@ angular.module('main', [
     if (window.cordova && window.cordova.plugins.Keyboard) {
       cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
     }
+                       
+                       if (window.cordova && window.cordova.plugins.sprtprinter) {
+//                       cordova.plugins.sprtprinter.hideKeyboardAccessoryBar(true);
+                       }
 
     if (window.StatusBar) {
       // Set the statusbar to use the default style, tweak this to
@@ -89,11 +93,15 @@ angular.module('main')
 
   // TODO: do your service thing
   this.testCertConnect = function () {
-  	window.plugins.sslCertificateChecker.check(
-          successCallback,
-          errorCallback,
-          server,
-          fingerprint);
+//  	window.plugins.sslCertificateChecker.check(
+//          successCallback,
+//          errorCallback,
+//          server,
+//          fingerprint);
+         
+         if (window.cordova && window.cordova.plugins.sprtprinter) {
+                                cordova.plugins.sprtprinter.printBarcode();
+         }
 
    function successCallback(message) {
      alert(message);

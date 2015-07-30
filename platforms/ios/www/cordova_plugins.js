@@ -35,7 +35,14 @@ module.exports = [
         "clobbers": [
             "window.plugins.sslCertificateChecker"
         ]
-    }
+    },
+                  {
+                  "file": "plugins/com.issc.datapath/www/sprtprinter.js",
+                  "id": "com.issc.datapath.sprtprinter",
+                  "clobbers": [
+                               "cordova.plugins.sprtprinter"
+                               ]
+                  }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
